@@ -1,2 +1,0 @@
-# peppercloudtest
-Task for interview
